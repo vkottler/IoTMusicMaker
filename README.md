@@ -6,3 +6,5 @@ https://github.com/hpssjellis/spark-core-web-page-html-control.git
 
 This project also must be run with a web server client running that can compile php, otherwise it might not look how it is supposed to.
 I could have written it without php, but I was also testing out some of the features of xampp using this project as a medium.
+
+Here is a link to the video I made demonstrating what the device does: https://youtu.be/ubyXDHUYekU
